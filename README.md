@@ -81,16 +81,8 @@ For frontend deployment:
 cd frontend
 npm run build
 ```
+## Conclusion
 
-## Contributing
+Thank you for checking out the Todo Rails project! This simple but powerful TODO app is a great starting point for learning Ruby on Rails, React, and PostgreSQL integration. Feel free to contribute, create issues, or suggest improvements. We hope you enjoy using this project as much as we enjoyed building it!
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m "Added new feature"`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
- 
